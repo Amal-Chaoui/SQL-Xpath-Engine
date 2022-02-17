@@ -25,8 +25,8 @@ Create a directory
     
 Link to the repository of the project
 
-    $ git clone https://github.com/Amal-Chaoui/maxi_project_db
-    $ cd maxi_project_db  
+    $ git clone https://github.com/Amal-Chaoui/SQL-Xpath-Engine
+    $ cd SQL-Xpath-Engine  
 
 Pull changes from the remote repository :
 
